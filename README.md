@@ -1,2 +1,2 @@
 # video-stream-microservice
-Bootstraping microservices with node.js
+Bootstraping microservices with Node.js, Express,Docker, Kubernetes, Terraform, AWS
